@@ -1,4 +1,4 @@
-NOTE: This was my senior design project in December 2022 prior to any work experience. As of May 15th, 2024, the code and project has not been updated nor has it been improved. This is the raw submitted senior design project that won an award for the class of 2022 Computer Engineerings at FIU College of Engineering and Computing.
+This was my senior design project in December 2022 prior to any work experience. As of May 15th, 2024, the code and project has not been updated nor has it been improved since its submission/creation in 2022. I recognize a lot can be improved, but I would rather work on new and more interesting personal projects that improve this one. This is the raw submitted senior design project that won an award for the class of 2022 Computer Engineerings at FIU College of Engineering and Computing.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
