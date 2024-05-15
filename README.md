@@ -1,3 +1,5 @@
+NOTE: This was my senior design project in December 2022 prior to any work experience. As of May 15th, 2024, the code and project has not been updated nor has it been improved. This is the raw submitted senior design project that won an award for the class of 2022 Computer Engineerings at FIU College of Engineering and Computing.
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [Installing Dependencies ](#installing-dependencies-)
@@ -10,7 +12,7 @@
 <br>
 
 ## Installing Dependencies <a name="Introduction"></a>
-1. In order to run this program without errors, all the necessary libraries must be installed as outlined per [Requirements.txt](https://github.com/dannyleall/StockMarketTraderBot/blob/main/Requirements.txt) file. For the easiest installation process: 
+1. In order to run this program without errors, all the necessary libraries must be installed as outlined per [Requirements.txt](Requirements.txt) file. For the easiest installation process: 
    - Open this project in [VS Code](https://code.visualstudio.com/download) and open the terminal by pressing 
 ``
 Ctrl+Shift+`
@@ -24,7 +26,7 @@ Ctrl+Shift+`
 
 ## Running the Project
 1. Once all dependencies have been installed, you are ready to run the project.
-    - **Using VS Code:** Navigate to the project's [RunMe.py]([##RunMe.py](https://github.com/dannyleall/StockMarketTraderBot/blob/main/RunMe.py)) file, and run the file. 
+    - **Using VS Code:** Navigate to the project's [RunMe.py]([##RunMe.py](RunMe.py)) file, and run the file. 
         
         **NOTE:** There will be a 5 to 10 minute delay after you type your stock in the first window in order to train and test the algorithms.
         <br>
@@ -73,13 +75,13 @@ Ctrl+Shift+`
         
         **Step Two:** Create an [InteractiveBrokers account](https://gdcdyn.interactivebrokers.com/Universal/Application) and ensure a funded account.
 
-        **Step Three:** Un-comment out lines [562-564](https://github.com/dannyleall/StockMarketTraderBot/blob/main/UserInterface.py#L562-L564), [568-570](https://github.com/dannyleall/StockMarketTraderBot/blob/main/UserInterface.py#L568-L570), [951-953](https://github.com/dannyleall/StockMarketTraderBot/blob/main/UserInterface.py#L951-L953), and [957-959](https://github.com/dannyleall/StockMarketTraderBot/blob/main/UserInterface.py#L951-L953) of [UserInterface.py](https://github.com/dannyleall/StockMarketTraderBot/blob/main/UserInterface.py).
+        **Step Three:** Un-comment out lines 562-564, 568-570, 951-953, and 957-959 of [UserInterface.py](Interfaces/UserInterface.py).
 
-        **Step Four:** Follow short instructions on `Connecting Code to TWS` section of the [Software Documentation.docx](https://github.com/dannyleall/StockMarketTraderBot/blob/main/Software%20Documentation.docx) to ensure an established Interactive Brokers connection.
+        **Step Four:** Follow short instructions on `Connecting Code to TWS` section of the [Software Documentation.docx](University/Software%20Documentation.docx) to ensure an established Interactive Brokers connection.
 
         **Step Five:** [Run the project](#running-the-project)!
 
 ## Repository File Explanations
-Refer to the [Software Documentation.docx](https://github.com/dannyleall/StockMarketTraderBot/blob/main/Software%20Documentation.docx) that provides more in-depth descriptions of all code in this project. This was a senior design project in which all programming and documentation of code was done by Daniel Leal. 
+Refer to the [Software Documentation.docx](University/Software%20Documentation.docx) that provides more in-depth descriptions of all code in this project. This was a senior design project in which all programming and documentation of code was done by Daniel Leal. 
 
 However, the documentation was done prior to any work experience so it is not at the same level of documentation that I can provide now. Nonetheless, I left this repository here to show growth as this was my first time tying AI to a project.
