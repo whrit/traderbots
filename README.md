@@ -1,6 +1,12 @@
-This was my senior design project in December 2022 prior to any work experience. As of May 15th, 2024, the code and project has not been updated nor has it been improved since its submission/creation in 2022. I recognize a lot can be improved, but I would rather work on new and more interesting personal projects that improve this one. This is the raw submitted senior design project that won an award for the class of 2022 Computer Engineerings at FIU College of Engineering and Computing.
+# Important Note
+- As of June 9th, 2024, other than the files folder structure, the code and project has not been updated nor has it been improved since its submission/creation in 2021. 
+- This was my senior design project in almost 2021 prior to any work experience. It has not been tested since, but the modeling implementation can be used for inspiration/guidance: 
+  - [Machine and Depp Learning Model Implementations](/Source/Models/Learners.py).
+- This is the raw submitted senior design project that won an award for the class of 2022 Computer Engineerings at FIU College of Engineering and Computing.
+  - I recognize a lot can be improved, but I would rather work on new and more interesting personal projects that improve this one. 
 
 # Table of Contents
+- [Important Note](#important-note)
 - [Table of Contents](#table-of-contents)
   - [Installing Dependencies ](#installing-dependencies-)
   - [Running the Project](#running-the-project)
