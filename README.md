@@ -37,8 +37,8 @@ python $env:USERPROFILE\Downloads\repo\RunMe.py
 ![](Images/LightLastWindow.png)  
 
 ### More Predictions Button
-- Green represents an `ACCURATE` prediction, or a positive portfolio return whereas red represents the opposite, `INACCURATE`.
 - The x-axis shows integers with a negative sign preceding it. `-1` means yesterday, `-4` means 4 days ago, `-20` means 20 days ago, etc.
+- Green represents an `ACCURATE` prediction by the bot on that specific day, or a positive portfolio return, whereas red represents the opposite, `INACCURATE`.
 
 ![](Images/TslaStlPredictionsPlot.png)
 
