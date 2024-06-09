@@ -33,7 +33,7 @@ python $env:USERPROFILE\Downloads\repo\RunMe.py
 ![](Images/DarkSecondWindow.png)
 
 ### Algorithmic Predictions
-**Deep-Q Algorithm (Light Mode)**
+**Deep Dyna-Q Algorithm (Light Mode)**
 ![](Images/LightLastWindow.png)  
 
 ### More Predictions Button
